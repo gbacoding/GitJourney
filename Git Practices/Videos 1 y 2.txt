@@ -2,10 +2,10 @@
 
 <> git init 
 <> "git add"
-<> git commit
+<> git commit -m "Descripción"
 <> "git status -s"
 <> git log --oneline
-<> 
+<> git reset --hard codigo
 
 ----------------------------------------------
 1. Crea un proyecto 
@@ -21,4 +21,10 @@
 11. Solicitar estado de archivos del repositorio
 "12. Modificar archivo y guardar cambios"
 13. Solicitar estado de archivos del repositorio
+"14. Respaldar el archivo"
+15. Comprobar estado
+"16. Volver a enviar a repositorio local"
+17 Consultar historial
+"18. hacer modificacion chorra"
+19. Volver a la version anterior
 
