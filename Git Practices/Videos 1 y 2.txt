@@ -1,0 +1,19 @@
+((Practica de comandos básicos))
+
+<> git init 
+<> "git add"
+<> git commit
+<> "git status -s"
+<> git log --oneline
+<> 
+
+----------------------------------------------
+1. Crea un proyecto 
+"2. En la carpeta general, indica a git que ha de hacer un seguimiento del proyecto" 
+3. Solicitar estado de archivos del repositorio
+"4. Indicarle a git de que ficheros quiero que haga el seguimiento" 
+5. Solicitar estado de archivos del repositorio
+"6. Modificar el archivo"
+"1. Solicitar estado de archivos del repositorio
+Enivar los archivos del Area de ensayo (staging area) al repositorio local
+"1. Solicitar estado de archivos del repositorio
