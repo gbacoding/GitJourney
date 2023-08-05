@@ -14,6 +14,11 @@
 "4. Indicarle a git de que ficheros quiero que haga el seguimiento" 
 5. Solicitar estado de archivos del repositorio
 "6. Modificar el archivo"
-"1. Solicitar estado de archivos del repositorio
-Enivar los archivos del Area de ensayo (staging area) al repositorio local
-"1. Solicitar estado de archivos del repositorio
+7. Solicitar estado de archivos del repositorio
+"8. Respaldar el cambio por git añadiendo los nuevos documentos al staging area"
+9. Solicitar estado de archivos del repositorio
+"10. Enviar los archivos del Area de ensayo (staging area) al repositorio local incluyendo una descripción"
+11. Solicitar estado de archivos del repositorio
+"12. Modificar archivo y guardar cambios"
+13. Solicitar estado de archivos del repositorio
+
