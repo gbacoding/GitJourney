@@ -1,1 +1,0 @@
-This repository is a collection of exercises and valuable resources that document my journey in mastering the Git version control system. It serves as a personal learning hub, offering a range of hands-on exercises, tutorials, and reference materials to enhance my understanding and proficiency in using Git effectively.
