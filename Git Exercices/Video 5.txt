@@ -1,0 +1,16 @@
+<These exercises correspond to video 5 of the Git & Github course from the YouTube channel 'Píldoras Informáticas.'
+Channel link: [https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU].
+If you have any questions, refer to notes or videos 5. >
+
+
+                                ((BRANCHES))
+
+1. Create a branch.
+. Consultar en que ramas estas
+. Moverme a la rama creada
+. Consultar en que ramas estas
+"2. Make changes in both branches."
+3. Merge both branches.
+"4. Delete a branch."
+5.
+
