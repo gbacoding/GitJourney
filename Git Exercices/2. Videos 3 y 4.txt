@@ -1,0 +1,14 @@
+<These exercises correspond to videos 3 and 4 of the Git & Github course from the YouTube channel 'Píldoras Informáticas.'
+Channel link: [https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU].
+If you have any questions, refer to notes or videos 3 and 4.
+Video 3 is associated with the following exercises: 1, 2.
+Video 4 is associated with the following exercises: 3, 4, 5, 6, 7. >
+
+                                ((REPOSITORIES))
+1. Create a repository
+"2. Import from local repository to remote repository (get link from website)"
+3. Edit from Github
+"4. Update local repository"  <---                       >
+5. Modify a file 
+"6. Update remote repository" ---->
+7.Create tags for Tic-Tac-Toe Game #v0. Developing the logic. No GUI.
