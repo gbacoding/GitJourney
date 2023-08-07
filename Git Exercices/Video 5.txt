@@ -6,11 +6,16 @@ If you have any questions, refer to notes or videos 5. >
                                 ((BRANCHES))
 
 1. Create a branch.
-. Consultar en que ramas estas
-. Moverme a la rama creada
-. Consultar en que ramas estas
-"2. Make changes in both branches."
-3. Merge both branches.
-"4. Delete a branch."
-5.
+"2. Consultar en que ramas estas"
+3. Moverme a la rama creada
+"4. Consultar en que ramas estas"
+5. Make changes in both branches.
+"6. Añadir los archivos a Staging area (Area de ensayo)"
+7.Commit en esa rama.
+"8.Volver a la rama principal"
+9. Merge both branches.
+"10. Integrar repositorio remoto con local."
+11. Commit Merge
+"12. Push again"
+13.Muestra las ramas de manera visual en la consola
 
