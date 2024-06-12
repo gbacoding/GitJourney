@@ -1,0 +1,30 @@
+!!** Empezar siempre con un <fetch> y con un <pull> Para actualizar el equipo local con las actualizaciones
+que se hayan podido hacer en el repositorio remoto o desde otros equipos **!!
+
+Los comando de Git se encuentran en "Team > Git" o pulsando con boton secundario sobre nuestro proyecto
+
+<-- DICCIONARIO -->
+- commit : confirmar cambio
+- clone : clonar repositorio remoto a local
+- push : enviar cambios de local a remoto
+- pull : enviar cambios de remoto a local
+- fetch : actualizar repositorio local respecto al remoto
+- reset -- hard : volver a un commit anterior
+- tag : marcar una version concreta
+- checkout revision / checkout created branch : moverme a una rama concreta
+- Team > Repository > repository Browser : ver las ramas
+
+<-- CREAR UNA RAMA (BRANCH) Y FUSIONARLA CON LA PRINCIPAL (MERGE) -->
+1. create branch : sobre la rama principal
+2. checkou revision : sobre la rama que nos queremos posicionar. En la que queremos desarrollar
+3. Realizar los cambios que deseemos
+4. Enviar commit de los cambios a la rama
+5. Push a la rama en la que estamos
+6. checkout revision : sobre la rama principal
+7. merge revision : sobre la rama que queremos fusionar con la principal
+8. Push de la rama principal a remoto
+
+(). Para eliminar una rama debemos hacer ambas cosas:
+> eliminamos la rama en local y hacemos push 
+> elimnamos la rama en remoto y luego hacemos pull
+
